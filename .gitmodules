@@ -1,3 +1,6 @@
 [submodule "themes/ils"]
 	path = themes/ils
-	url = https://github.com/XPoet/hexo-theme-ils.git
+	url =https://github.com/WilliamGong/hexo-theme-ils.git
+[submodule "themes/black-blue"]
+	path = themes/black-blue
+	url =https://github.com/WilliamGong/black-blue.git
