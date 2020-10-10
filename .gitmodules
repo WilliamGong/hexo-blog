@@ -1,0 +1,3 @@
+[submodule "themes/ils"]
+	path = themes/ils
+	url = https://github.com/WilliamGong/hexo-theme-ils.git
