@@ -11,5 +11,5 @@ tags:
 所谓不定期更新呢，就是我想鸽多久就鸽多久啦！（咕咕咕咕咕咕咕）      
 反正没人看（
 # 当前Blog状态
-![current_status](../images/current_status.jpg)
-(这是本地的)
+![current_status](/images/current_status.jpg)
+（这是本地的）
