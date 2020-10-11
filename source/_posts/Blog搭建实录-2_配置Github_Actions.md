@@ -1,7 +1,10 @@
 ---
 title: Blog搭建实录-2 配置Github Actions
 date: 2020-10-11T15:06:57+08:00
-tags:
+categories:
+- 博客搭建
+tags: 
+- 博客
 ---
 # Github Actions介绍
 > 注：以下内容大部分参考了[这篇post](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)，这篇post讲的比我清楚多了，人家是专业的。
