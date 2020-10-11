@@ -1,3 +1,6 @@
 [submodule "themes/ils"]
 	path = themes/ils
 	url = https://github.com/WilliamGong/hexo-theme-ils.git
+[submodule "themes/pure"]
+	path = themes/pure
+	url = https://github.com/WilliamGong/hexo-theme-pure.git
