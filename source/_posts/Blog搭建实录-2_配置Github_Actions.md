@@ -1,6 +1,7 @@
 ---
 title: Blog搭建实录-2 配置Github Actions
 date: 2020-10-11T15:06:57+08:00
+toc: true
 categories:
 - 博客搭建
 tags: 

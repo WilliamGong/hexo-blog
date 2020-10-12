@@ -1,6 +1,7 @@
 ---
 title: Blog搭建实录-1 初始化hexo与建立git仓库
 date: 2020-10-11T14:32:51+08:00
+toc: true
 categories:
 - 博客搭建
 tags:
