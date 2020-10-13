@@ -246,7 +246,7 @@ widgets:
             #    icon: fab fa-dribbble
             #    url: 'https://dribbble.com'
             RSS: 
-                icon: fab fa-rss
+                icon: fas fa-rss
                 url: atom.xml
     # Table of contents widget configurations
     -
@@ -385,4 +385,4 @@ providers:
     # Name or URL template of the webfont CDN provider
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: loli
+    iconcdn: 'https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.1/css/all.css'
