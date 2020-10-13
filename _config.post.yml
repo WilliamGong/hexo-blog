@@ -236,7 +236,7 @@ widgets:
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github: 
-                icon: fab fa-github
+                icon: fas fa-github
                 url: 'https://github.com/WilliamGong'
             #Facebook:
             #    icon: fab fa-facebook
@@ -387,4 +387,4 @@ providers:
     # Name or URL template of the webfont CDN provider
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    iconcdn: 'https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.1/css/all.css'
