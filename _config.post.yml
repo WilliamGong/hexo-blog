@@ -236,7 +236,7 @@ widgets:
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github: 
-                icon: fas fa-github
+                icon: fab fa-github
                 url: 'https://github.com/WilliamGong'
             #Facebook:
             #    icon: fab fa-facebook
@@ -248,7 +248,7 @@ widgets:
             #    icon: fab fa-dribbble
             #    url: 'https://dribbble.com'
             RSS: 
-                icon: fab fa-rss
+                icon: fas fa-rss
                 url: atom.xml
     # Table of contents widget configurations
     -
