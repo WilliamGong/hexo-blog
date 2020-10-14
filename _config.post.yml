@@ -6,7 +6,7 @@ version: 4.0.0
 variant: default
 # Path or URL to the website's logo
 logo: 
-    text: William Gong Blog
+    text: WilliamGong
 # Page metadata configurations
 head:
     # URL or path to the website's icon
