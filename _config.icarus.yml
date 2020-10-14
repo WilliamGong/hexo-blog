@@ -245,6 +245,9 @@ widgets:
             #Dribbble:
             #    icon: fab fa-dribbble
             #    url: 'https://dribbble.com'
+            Zhihu:
+                icon: fab fa-zhihu
+                url: 'https://www.zhihu.com/people/gong-tai-lin'
             RSS: 
                 icon: fas fa-rss
                 url: atom.xml
