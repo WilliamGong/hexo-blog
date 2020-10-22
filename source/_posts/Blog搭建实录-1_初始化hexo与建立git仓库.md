@@ -41,6 +41,6 @@ tags:
 # 建立Git仓库并上传到Github
 > 如果你不知道什么是git, Github，你现在就可以把本Blog关了。
 ## 建立Github Pages发布仓库
-在[Github](https://github.com)上，建立一个名为\<username>.github.io的仓库，然后放着。    
+在[Github](https://github.com)上，建立一个名为`\<username>.github.io`的仓库，然后放着。    
 之后，Hexo文件夹用git初始化，commit之后push到Github。    
 OK，其余的操作就主要在Github上进行了。

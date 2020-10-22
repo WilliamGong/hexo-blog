@@ -43,7 +43,7 @@ apk本质上是一个加了签名和元数据的压缩包，用普通的解压�
 # 查看app信息
 我们打AndroidManifest.xml，查看apk包名等信息。    
 AndroidManifest.xml文件如下:
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lc.nb" android:versionCode="9" android:versionName="凉城fork by Keven">
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21"/>
@@ -209,7 +209,7 @@ AndroidManifest.xml文件如下:
     </application>
 </manifest>
 ```
-可以看到作者把ID留在了versionName里，心够大的。     
+可以看到作者把ID留在了`versionName`里，心够大的。     
 以及可以看到申请的权限只有储存权限，这样看来估计没有窃取信息等行为了。      
 不过
 
@@ -223,13 +223,14 @@ AndroidManifest.xml文件如下:
 
 # 定位入口文件
 注意AndroidManifest.xml中的这一个标签：
-
-    <activity 
+```xml
+<activity 
     android:theme="@style/Theme.Holo.Light.NoActionBar"
     android:label="插件9.0" 
     android:name="com.androlua.Main"
     android:screenOrientation="user"
     android:configChanges="keyboardHidden|orientation|screenSize">
+```
 可见入口文件在`com.android.Main`中。
 那么打开看看：![Jadx-main](jadx-main.jpg)
 确定了，这是AndroidLua应用，而`/asset`中的lua脚本才是本体。    
