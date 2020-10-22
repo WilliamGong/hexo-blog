@@ -2,8 +2,8 @@
 title: “O泡果奶”app解析2 lua文件解密与反编译
 date: 2020-10-22T10:14:29+08:00
 toc: true
-cover:
-thumbnail:
+cover: /images/obubbleapp-2.jpg
+thumbnail: /images/obubbleapp-2.jpg
 categories: 
     - Android
 tags: 
