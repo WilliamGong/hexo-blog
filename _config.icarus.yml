@@ -267,6 +267,7 @@ widgets:
         links:
             Hexo: 'https://hexo.io'
             Bulma: 'https://bulma.io'
+            infiBlog: 'https://infi.wang/'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -316,12 +317,12 @@ plugins:
     # https://tongji.baidu.com
     baidu_analytics:
         # Baidu Analytics tracking ID
-        tracking_id: 
+        tracking_id: bbd01e65b22abbc1be85e9d4383034b
     # Bing Webmaster Tools plugin settings
     # https://www.bing.com/toolbox/webmaster/
     bing_webmaster:
         # Bing Webmaster Tools tracking ID in the <meta> tag
-        tracking_id: 
+        tracking_id: 30D1F37102A54580CBBD8B39C14D54A2
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
     busuanzi: true
