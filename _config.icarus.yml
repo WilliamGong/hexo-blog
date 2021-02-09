@@ -318,7 +318,7 @@ plugins:
     # https://tongji.baidu.com
     baidu_analytics:
         # Baidu Analytics tracking ID
-        tracking_id: bbd01e65b22abbc1be85e9d4383034b
+        tracking_id: 2bbd01e65b22abbc1be85e9d4383034b
     # Bing Webmaster Tools plugin settings
     # https://www.bing.com/toolbox/webmaster/
     bing_webmaster:
