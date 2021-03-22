@@ -269,6 +269,7 @@ widgets:
             Hexo: 'https://hexo.io'
             Bulma: 'https://bulma.io'
             infiBlog: 'https://infi.wang/'
+            简书: 'https://www.jianshu.com/u/9b9d775a6c49'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
