@@ -1,5 +1,5 @@
 ---
-title: 从零开始搭建 Home Lab 1 硬件安装与配置
+title: 从零开始搭建 Home Lab 1 HPE Gen 10 Plus 安装与配置
 date: 2021-04-01T14:47:08+08:00
 toc: true
 cover:
