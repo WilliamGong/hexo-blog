@@ -288,7 +288,7 @@ widgets:
     # Tags widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
+        position: left
         type: tags
     # Google FeedBurner email subscription widget configurations
    # -
