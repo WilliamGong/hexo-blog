@@ -43,7 +43,7 @@ Proxmox VE 的分区设置很奇怪，坑也很多，所以我也没研究透，
 
 ## 地点，时区设置
 PVE 的地点设置不是选择的，需要自己输入，输入 China 就好。     
-对于时区，选择 Asia/Shanghai 或 Asia/HongKong 都行，都是 GMT+8。      
+对于时区，选择 Asia/Shanghai 或 Asia/Hong_Kong 都行，都是 GMT+8。      
 
 # 安装后的配置
 ## 网络管理界面
