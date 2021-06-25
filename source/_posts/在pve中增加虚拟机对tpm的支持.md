@@ -105,7 +105,7 @@ tpm=/tmp/tpm$i
 
 mkdir $tpm
 echo "Starting $tpm"
-sudo swtpm socket --tpmstate dir=$tpm --tpm2 \
+sudo swtpm socket  -d --tpmstate dir=$tpm --tpm2 \
              --ctrl type=unixio,path=/$tpm/swtpm-sock &
 sleep 2 # this should be changed to a netstat query
 ```
