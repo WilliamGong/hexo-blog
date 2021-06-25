@@ -25,11 +25,12 @@ tags:
 ## 在 Debian 下编译安装 swtpm
 ### 下载源码
 swtpm 有一个依赖 libtpms 也需要单独编译安装，这里也一起安装了。    
-swtpm 的源码
+swtpm 的源码:
 
     git clone https://github.com/stefanberger/swtpm.git
-libtpms 的源码
+libtpms 的源码:
 
+    git clone https://github.com/stefanberger/libtpms.git
 ### 签出到稳定分支
 查看分支
 
