@@ -30,7 +30,7 @@ tags:
 + CPU：Intel G5420 4线程 amd64
 + 内存：4G
 + SCSI 控制器：LSI 53C895A
-+ 硬盘：32G，挂载到宿主机的 `/mnt/lfs/`
++ 硬盘：32G
 + 网卡：Realtek RTL8139
 + BIOS：OVMF (UEFI)
 
