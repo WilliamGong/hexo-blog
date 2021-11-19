@@ -1,5 +1,5 @@
 ---
-title: lfs搭建 1 准备工作
+title: LFS 搭建 1 准备工作
 date: 2021-11-19T18:53:29+08:00
 toc: true
 cover:
