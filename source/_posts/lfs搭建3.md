@@ -1,5 +1,5 @@
 ---
-title: lfs搭建3 Chroot 以及构建额外工具
+title: LFS 搭建3 Chroot 以及构建额外工具
 date: 2021-11-28T15:15:48+08:00
 toc: true
 cover:
