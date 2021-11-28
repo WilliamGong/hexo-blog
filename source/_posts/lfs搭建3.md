@@ -60,7 +60,7 @@ chroot "$LFS" /usr/bin/env -i   \
     PATH=/usr/bin:/usr/sbin \
     /bin/bash --login +h
 ```
-这时的 bash 会显示 I have no name，因为没有`/etc/passwd`，这时正常的，虽然有点丑 :D
+这时的 bash 会显示 I have no name，因为没有`/etc/passwd`，这是正常的，虽然有点丑 :D
 ## 退出时进入 Chroot 的操作
 如果只是退出而不关机/重启的话，直接运行上面的命令就行，不然就要重新挂载这些文件系统。    
 不过建议每次 chroot 前都检查一次。
