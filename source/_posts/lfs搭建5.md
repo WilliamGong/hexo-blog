@@ -615,6 +615,7 @@ python3 setup.py install --optimize=1
 ```
 tar -xvf Jinja2-3.0.1.tar.gz
 cd Jinja2-3.0.1
+python3 setup.py install --optimize=1
 ```
 ## Systemd-249
 需要打补丁。
