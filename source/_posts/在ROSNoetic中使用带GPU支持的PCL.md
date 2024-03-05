@@ -55,3 +55,10 @@ sudo make install
 
 至此，安装已全部完成。所有依赖 pcl，pcl_ros，pcl_conversion 的包应该都能正常编译。    
 如果发现链接器报错 `undefined reference`，可能是 pcl_ros 的部分库目录没有加上，找到没有加上的路径就好。
+
+# 附：禁止 pcl_conversions 和 pcl_ros 的更新
+操作完成后，这两个包在更新时可能会覆盖掉上面进行的设置，可以使用 `apt-mark` 屏蔽对软件包的更新：
+```
+sudo apt-mark hold pcl_conversions
+sudo apt-mark hold pcl-ros
+```
